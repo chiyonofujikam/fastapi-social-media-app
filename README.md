@@ -65,7 +65,7 @@ fastapi_tutorial/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd fastapi_tutorial
+   cd fastapi-social-media-app
    ```
 
 2. **Install dependencies**
@@ -224,3 +224,4 @@ curl -X GET "http://localhost:8000/feed" \
 - Passwords are hashed using FastAPI Users' default hashing
 - Only post owners can delete their posts
 - All endpoints except registration require authentication
+
