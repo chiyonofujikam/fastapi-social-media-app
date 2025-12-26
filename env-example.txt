@@ -1,0 +1,4 @@
+IMAGEKIT_PRIVATE_KEY=private_xxx
+IMAGEKIT_PUBLIC_KEY=public_xxx
+IMAGEKIT_URL=https://ik.imagekit.io/xxxx
+SECRET_JWT = "xxxx"
